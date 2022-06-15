@@ -1,6 +1,5 @@
-# CS 5010 Semester Project
+# Java MVC Monopoly Game
 
-This repo represents the coursework for CS 5010, the Fall 2022 Edition!
 
 **Name:** Qia Lin
 
@@ -11,18 +10,12 @@ This repo represents the coursework for CS 5010, the Fall 2022 Edition!
 
 
 ### About/Overview
-The milestone4 provide a nice UI interface to play the lucky game
+The game provide a nice UI interface to play the Monopoly Game and implement A* search algorithm for AI players
 
 ![demo](https://user-images.githubusercontent.com/47118475/165420983-ca016d17-ef34-4004-8685-8a33e561f4bf.png)
-The milestone3 project update the game to be able to play with winning or losing when target character attacked by player is dead below 0 health, enable players to move a pet to make influence of visibility of the room space. 
-
-The milestone2 project provide a Command design pattern controller to the project and run the games with multiple players with limited turns.
-
-The milestone1 project provide a game model implementation for a lucky world including drawing map, map graphical and text representation details and game progress console log. 
-
 
 ### List of Features Milestone 4
-A nice UI interface for play MyLuckyGame
+A nice UI interface for play Monopoly MyLuckyGame
 
 ### How to Run miltstone 4
   1. Launch CMD in depository res/ of this project
