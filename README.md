@@ -10,7 +10,7 @@
 
 
 ### About/Overview
-The game provide a nice UI interface to play the Monopoly Game and implement A* search algorithm for AI players
+The game provide a nice UI interface and follow the MVC design pattern to play the Monopoly Game and implement A* search algorithm for AI players
 
 ![demo](https://user-images.githubusercontent.com/47118475/165420983-ca016d17-ef34-4004-8685-8a33e561f4bf.png)
 
