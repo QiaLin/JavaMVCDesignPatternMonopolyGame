@@ -1,4 +1,4 @@
-# Java MVC Monopoly Game
+# Java MVC design pattern (Model-View-Controller design pattern) Monopoly Game
 
 
 **Name:** Qia Lin
